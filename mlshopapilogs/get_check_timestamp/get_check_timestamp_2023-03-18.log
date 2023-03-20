@@ -1,2 +1,0 @@
-{"date":"2023-03-18 10:53:40","level":"info","rows":[[{"fulfillment_status":"ON PROCESS"}],{"affectedRows":0,"changedRows":0,"fieldCount":0,"insertId":0,"message":"","protocol41":true,"serverStatus":34,"warningCount":0}],"service":"user-service","timestamp":"2023-03-18T02:54:05.580Z"}
-{"date":"2023-03-18 10:53:40","level":"info","rows":[[{"fulfillment_status":"ON PROCESS"}],{"affectedRows":0,"changedRows":0,"fieldCount":0,"insertId":0,"message":"","protocol41":true,"serverStatus":34,"warningCount":0}],"service":"user-service","timestamp":"2023-03-18T02:54:25.755Z"}
